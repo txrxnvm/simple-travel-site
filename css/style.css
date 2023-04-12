@@ -3,4 +3,19 @@ img {
     height: 300px;
     padding: 30;
 }
-
+nav {
+text-align: center;
+}
+nav a {
+    text-decoration: none;
+    padding: 3;
+}
+div {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+body {
+    text-align: center;
+}
