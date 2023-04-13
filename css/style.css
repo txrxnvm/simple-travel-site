@@ -16,6 +16,30 @@ div {
 header {
     text-align: center;
 }
-body {
-    text-align: center;
+.introduce {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0d66ec;
+    padding: 45px;
+    font: 15px serif;
+    }
+
+.table table {
+    margin: auto;
+    color:#0d66ec;
+    border:rgb(98, 16, 238);
+    font-stretch: narrower;
+}
+
+.activities {
+    font-size: 18px;
+    font: weight 200px;;
+    color: #0d66ec;
+    padding: 25px;
+    font: 15px serif;
+}
+header {
+    color: #0d66ec;
+    padding: 5px;
+    font: 15px serif;
 }
